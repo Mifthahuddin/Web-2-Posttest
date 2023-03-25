@@ -25,3 +25,6 @@ Form
 
 Tampilan data yang diinput
 ![Screenshot (79)](https://user-images.githubusercontent.com/90958608/227745081-a2829aae-0bce-4945-a47d-b6c88fdd5c7d.png)
+
+Session Storage
+![Screenshot (80)](https://user-images.githubusercontent.com/90958608/227745116-18c25309-23df-4f94-b280-9ad78007cd52.png)
